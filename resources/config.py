@@ -22,7 +22,7 @@ class XmlClientConfig(object):
 
     prod_config = Config(
         _type='prod',
-        url='invioSS730p.sanita.finanze.it',
+        url='invioSS730pTest.sanita.finanze.it',
         https_verify=True
     )
 
