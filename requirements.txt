@@ -1,0 +1,5 @@
+pycryptodome
+mysql-connector-python
+requests
+xmlschema
+zeep
